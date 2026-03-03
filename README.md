@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Mateo Pacheco
 
-<!--
-**mateo-pacheco/mateo-pacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Software (4.º ciclo)
+💻 Backend Developer enfocado en Microservicios y Sistemas con IA
+🚀 Interesado en arquitectura distribuida y escalabilidad
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías principales
+
+- Java | Spring Boot | Spring Cloud
+- Docker
+- MySQL
+- JWT / OAuth2
+- Microservices Architecture
+- Hexagonal Architecture
+
+---
+
+## 🔥 Proyectos Destacados
+
+### 🏗 Microservices Architecture
+Arquitectura distribuida con API Gateway, Eureka, Circuit Breaker y JWT.
+
+### 🤖 NeuraFlow – AI Detection Backend
+Sistema de detección en tiempo real con YOLOv8 + FastAPI optimizado para CPU/GPU.
