@@ -1,9 +1,6 @@
 # 👋 Hola, soy Mateo Pacheco
 
 🎓 Estudiante de Ingeniería de Software
-💻 Backend Developer enfocado en Microservicios y Sistemas con IA
-🚀 Interesado en arquitectura distribuida y escalabilidad
-
 ---
 
 ## 🧠 Tecnologías principales
